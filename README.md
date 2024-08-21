@@ -36,7 +36,7 @@ When I’m not coding or exploring the crypto world, you’ll find me [your hobb
 ## 🔮 Tools, Technologies and Languages
 
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="60" height="40"/> </a> 
 <a href="https://www.anaconda.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" alt="anaconda" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 

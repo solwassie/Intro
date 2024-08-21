@@ -30,8 +30,10 @@ I’m always open to teaming up on interesting projects—especially if they inv
 LinkedIn: https://www.linkedin.com/in/yatmelis-freites-36a0382b9/
 
 Twitter: https://x.com/sol_wassie
+
+
 🚧 Fun Fact:
-When I’m not coding or exploring the crypto world, you’ll find me [your hobby, e.g., hiking, playing chess, exploring new cafes, etc.].
+When I’m not coding or exploring the crypto world, you’ll find me wandering through the city.
 
 ## 🔮 Tools, Technologies and Languages
 

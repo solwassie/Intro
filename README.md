@@ -1,17 +1,36 @@
-<!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I’m UndercoverBug
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Martin Debouté
+🚀 Python Developer | Data Enthusiast | Crypto Native | Code Ninja
 
-Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
+💻 I’m passionate about building scalable, efficient software solutions and diving deep into data to uncover insights. I love experimenting with new technologies and turning crazy ideas into code reality (because, why not?).
 
-- I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚.
-- I enjoy learning new stuff and making notes 📄.
-- I like to travel and I like to have new opportunities 🛫.
-- I'm an Open Source enthusiast 🤠.
+💰 Crypto Enthusiast:
+For the past 5 years, I’ve been deep in the crypto trenches, exploring blockchain, DeFi, and contributing to projects that are probably more decentralized than my sleep schedule. Whether it’s smart contracts, crypto analytics, or just figuring out how to explain Web3 to my parents, I’m always excited about what’s next in this wild, ever-evolving space.
 
-## 📧 Contact me
+📊 Current Focus:
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+Mixing Python and JavaScript like a cocktail of awesome
+Contributing to open-source projects that might just save the world (or at least make it a bit cooler)
+Automating everything I can, because why do something twice if a script can do it forever?
+
+🔗 Crypto + Data Analytics:
+Here’s where things get really interesting—I’m on a mission to intertwine the unpredictable world of crypto with the cold, hard logic of data analytics. Think of it as decoding the Matrix, but with more Python and fewer existential crises. If it involves digging through blockchain data to predict trends or using analytics to optimize DeFi strategies, count me in!
+
+🎯 What drives me:
+
+Clean, maintainable code (because spaghetti belongs on a plate, not in a codebase)
+Solving complex problems with elegant solutions (or at least solutions that don’t break everything)
+Continuous learning and improvement (a.k.a. Googling stuff at 2 AM)
+🌱 Learning & Growing:
+I’m always curious about what’s next in tech, whether it’s machine learning, DevOps, or cloud computing. If there’s a new rabbit hole to dive into, you’ll probably find me at the bottom of it. I also love sharing what I learn, so expect the occasional blog or tutorial drop.
+
+🤝 Let’s Collaborate:
+I’m always open to teaming up on interesting projects—especially if they involve data science, web development, crypto, or automation. Got a wild idea? Let’s turn it into reality (or at least a really cool GitHub repo).
+
+LinkedIn:[ (https://www.linkedin.com/in/yatmelis-freites-36a0382b9/)]
+Twitter: [https://x.com/sol_wassie]
+🚧 Fun Fact:
+When I’m not coding or exploring the crypto world, you’ll find me [your hobby, e.g., hiking, playing chess, exploring new cafes, etc.].
 
 ## 🔮 Tools, Technologies and Languages
 
@@ -27,7 +46,3 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
 [linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
------
-Credits: [mdeboute](https://github.com/mdeboute)
-
-Last Edited on: 15/01/2021

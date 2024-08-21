@@ -5,6 +5,7 @@
 💻 I’m passionate about building scalable, efficient software solutions and diving deep into data to uncover insights. I love experimenting with new technologies and turning crazy ideas into code reality (because, why not?).
 
 💰 Crypto Enthusiast:
+
 For the past 5 years, I’ve been deep in the crypto trenches, exploring blockchain, DeFi, and contributing to projects that are probably more decentralized than my sleep schedule. Whether it’s smart contracts, crypto analytics, or just figuring out how to explain Web3 to my parents, I’m always excited about what’s next in this wild, ever-evolving space.
 
 📊 Current Focus:
@@ -14,6 +15,7 @@ Contributing to open-source projects that might just save the world (or at least
 Automating everything I can, because why do something twice if a script can do it forever?
 
 🔗 Crypto + Data Analytics:
+
 Here’s where things get really interesting—I’m on a mission to intertwine the unpredictable world of crypto with the cold, hard logic of data analytics. Think of it as decoding the Matrix, but with more Python and fewer existential crises. If it involves digging through blockchain data to predict trends or using analytics to optimize DeFi strategies, count me in!
 
 🎯 What drives me:
@@ -21,7 +23,9 @@ Here’s where things get really interesting—I’m on a mission to intertwine 
 Clean, maintainable code (because spaghetti belongs on a plate, not in a codebase)
 Solving complex problems with elegant solutions (or at least solutions that don’t break everything)
 Continuous learning and improvement (a.k.a. Googling stuff at 2 AM)
+
 🌱 Learning & Growing:
+
 I’m always curious about what’s next in tech, whether it’s machine learning, DevOps, or cloud computing. If there’s a new rabbit hole to dive into, you’ll probably find me at the bottom of it. I also love sharing what I learn, so expect the occasional blog or tutorial drop.
 
 🤝 Let’s Collaborate:

@@ -27,9 +27,9 @@ I’m always curious about what’s next in tech, whether it’s machine learnin
 🤝 Let’s Collaborate:
 I’m always open to teaming up on interesting projects—especially if they involve data science, web development, crypto, or automation. Got a wild idea? Let’s turn it into reality (or at least a really cool GitHub repo).
 
-LinkedIn:[ (https://www.linkedin.com/in/yatmelis-freites-36a0382b9/)]
+LinkedIn: https://www.linkedin.com/in/yatmelis-freites-36a0382b9/
 
-Twitter: [https://x.com/sol_wassie]
+Twitter: https://x.com/sol_wassie
 🚧 Fun Fact:
 When I’m not coding or exploring the crypto world, you’ll find me [your hobby, e.g., hiking, playing chess, exploring new cafes, etc.].
 
